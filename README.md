@@ -9,10 +9,11 @@ Olá! Este repositório contém minha solução para o desafio proposto pela emp
 
 ## Instalação
 
-Certifique-se de ter o Python e o Pipenv instalados em seu sistema. Você pode instalar o Pipenv via pip:
+Certifique-se de ter o Git LFS e o Pipenv instalados em seu sistema. Você pode instalar ambos da seguinte maneira:
 
 ```bash
 pip install pipenv
+git lfs install
 ```
 
 Em seguida, clone o repositório do projeto e vá para o diretório do projeto:
